@@ -1,0 +1,2 @@
+model_checkpoint_path: "inf_linear_model"
+all_model_checkpoint_paths: "inf_linear_model"
